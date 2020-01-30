@@ -1,7 +1,7 @@
 """
 DESCRIPTION:
 The following functions represent an advanced knowledge Python.
-Each function or group of functions is seperated by a single line comment of X's.
+Each function or group of functions is separated by a single line comment of X's.
 Each function or group of functions begin with a multi-line comment describing the functions purpose.
 These functions are the result of self-teaching as well as practice exercises found through W3resource.
 """
